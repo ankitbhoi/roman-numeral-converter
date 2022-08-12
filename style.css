@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp9314293.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+body{
+    margin: 0px auto;
+    padding: 0px auto;
+    font size: 10px;
+    text-align: centre;
+}
+h1{
+    color: skyblue;
+    font-size:50px;
+    font-family: 'Rubik Distressed', cursive;
+    font-family: 'Rubik Iso', cursive;
+}
+input{
+    width: 25vw;
+    margin: 10px 0;
+    height: 35px;
+    padding: 5px;
+    padding-left: 20px;
+    background-color: burlywood;
+    font-size: 1.5em;
+    text-align: center;
+    font-family: cursive;
+
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+}
+p{
+    font-family: 'Rubik Distressed', cursive;
+    font-size: 25px;
+    color:azure;
+}
